@@ -1,4 +1,13 @@
-As part of the BC2402 module, my groupmates and I worked on a project that involved managing databases for multiple airlines. The goal was to analyze the data and provide data-driven insights to help airlines enhance their services and improve the effectiveness of their chatbot responses. This project allowed me to apply database management skills, identify trends, and recommend actionable strategies for customer service optimization.
-Codes that are mainly done by me
-MySQL: Q4, 10
-NoSQL: Q4,6, 8, 10
+# Decoding Airline Success  
+BC2402 – Design & Development of Databases (Group Project)
+
+# Project Overview
+This project analyses airline customer behaviour, preferences, complaints, and performance using relational and non-relational databases. By integrating booking data, airline reviews, customer support logs, and external industry data, we uncover insights into airline success factors, seasonal trends, post-COVID shifts, and customer service design. The project focuses on data-driven decision making** for airlines, with Singapore Airlines and Qatar Airways as primary case studies.
+
+
+# Objectives
+- Analyse relationships between flight characteristics and customer preferences
+- Identify seasonal and class-based differences in airline ratings
+- Discover common customer complaints** by traveller type
+- Compare pre- and post-COVID customer sentiment
+- Propose a customer service chatbot design** for exceptional circumstances
